@@ -26,3 +26,7 @@ The starting point of the work is my collection addiction. I have been used to k
 
 The work attempts to explore where the traces are left through the act of disassembling the private objects collected and retained. What is precious to fetishism? What do I look like in my memory?
 The work is a change of personal behavior based on nihilism to conduct a self-analysis. What will be left behind? What will be remembered? What is meaningful? What is precious?
+
+
+RESOURCES:
+Weblog: https://github.com/MIyayayaya/-When-Ash-Dissipates-After-Wind/blob/main/WEBLOG/README.md
