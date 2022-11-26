@@ -1,7 +1,9 @@
 # When Ash Dissipates After Wind
 
 Project Name: When Ash Dissipates After Wind
+
 Installation | Multimedia Integrated Materials | Variable size 50cm*50cm*80cm | 2023
+
 Digital sensor: Arduino 
                                       Input: Wind speed sensor
                                       Output: Servo Motor - Micro Servo 9g - SG90
@@ -9,7 +11,8 @@ Physical Materials: Paper, Cigarette, Tickets, Receipt, Bottle Stopper, Sticker.
                                 Dust.
                                 Steel, Wire, Iron, Metal.
 
-Project Structure: PART1 - Photo (Physical Materials ID photos)
+Project Structure: 
+                   PART1 - Photo (Physical Materials ID photos)
                    PART2: Video (Physical Materials + Fire + Burning = Dust)
                    PART3: Installation - Windchime (ceiling)(hanging)
 
@@ -30,4 +33,4 @@ Video:
 
 Weblog: https://github.com/MIyayayaya/-When-Ash-Dissipates-After-Wind/blob/main/WEBLOG/README.md
 
-Develop code:
+Develop code: https://github.com/MIyayayaya/-When-Ash-Dissipates-After-Wind/blob/main/Code.zip
