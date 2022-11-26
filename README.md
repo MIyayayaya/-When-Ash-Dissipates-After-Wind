@@ -1,20 +1,17 @@
 # When Ash Dissipates After Wind
 
 Project Name: When Ash Dissipates After Wind
-
 Installation | Multimedia Integrated Materials | Variable size 50cm*50cm*80cm | 2023
-
 Digital sensor: Arduino 
                                       Input: Wind speed sensor
                                       Output: Servo Motor - Micro Servo 9g - SG90
-
 Physical Materials: Paper, Cigarette, Tickets, Receipt, Bottle Stopper, Sticker.
                                 Dust.
                                 Steel, Wire, Iron, Metal.
-                                
-                                PART1: Photo (Physical Materials ID photos)
-                                PART2: Video (Physical Materials + Fire + Burning = Dust)
-                                PART3: Installation - Windchime (ceiling)(hanging)
+
+Project Structure: PART1 - Photo (Physical Materials ID photos)
+                   PART2: Video (Physical Materials + Fire + Burning = Dust)
+                   PART3: Installation - Windchime (ceiling)(hanging)
 
 Brief Description (Physically):
 The device works through a real-time collection of wind data from different cities I have lived in, captures the real-time data of wind through the wind speed sensor, send the data to the inner walls of 12 wind bell tubes with dust, triggers the rotor of the servo motor, and finally scatter the ashes in the wind.
@@ -27,8 +24,8 @@ The starting point of the work is my collection addiction. I have been used to k
 The work attempts to explore where the traces are left through the act of disassembling the private objects collected and retained. What is precious to fetishism? What do I look like in my memory?
 The work is a change of personal behavior based on nihilism to conduct a self-analysis. What will be left behind? What will be remembered? What is meaningful? What is precious?
 
-
 RESOURCES:
+
 Video: 
 Weblog: https://github.com/MIyayayaya/-When-Ash-Dissipates-After-Wind/blob/main/WEBLOG/README.md
 Develop code:
