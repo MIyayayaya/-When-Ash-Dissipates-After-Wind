@@ -1,4 +1,4 @@
-# -When-Ash-Dissipates-After-Wind
+# When Ash Dissipates After Wind
 
 Project Name: When Ash Dissipates After Wind
 
