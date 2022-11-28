@@ -3,8 +3,15 @@ Weblog - Iterative development documenting progress
 0623 presentation 
 Theme Philosophy meaning: Exploring the traces left by people has always been the main theme of my artistic creation. I am attracted by the physical and spiritual traces of human existence, which are often very private, unique, and emotional. The starting point of the work is my collection addiction. I have been used to keeping traces of the physical aspects of life since I was very young. I will collect shopping tickets, bar coasters, cinema tickets, theater tickets, concert wristbands, restaurant tickets, exhibition tickets, train tickets, air tickets, tickets for activities, notes written by friends, intimate partner's personal belongings, etc. I keep, collect, sort out and sometimes look through the media of paper evidence in my life. 
 
+
 0701 presentation
-The process of looking through these collected objects seems to be infinitely close to the memory point of the moment when the event occurred. Touch, look, and feel the collection of objects. It is not only the story that you repeatedly feel countless times. The impact of emotion is layer by layer, complex, iterative, updated, and alternating. The work attempts to explore where the traces are left through the act of disassembling the private objects collected and retained. What is precious to fetishism? What do I look like in my memory? The work is a change of personal behavior based on nihilism to conduct a self-analysis. What will be left behind? What will be remembered? What is meaningful? What is precious?
+The process of looking through these collected objects seems to be infinitely close to the memory point of the moment when the event occurred.
+
+Exploring the traces left by people has always been the main theme of my artistic creation. I am drawn to the often highly personal, distinctive, emotional physical, and spiritual remnants of human existence.
+My obsession with collecting is where the work began.
+I've always been accustomed to recording the physical components of my existence. I'll compile receipts from stores, bar coasters, movie tickets, theatre tickets, concert wristbands, restaurant tickets, exhibition tickets, train tickets, plane tickets, activity tickets, messages from friends, personal belongings from an emotional bond, etc. I preserve, compile, archive, and occasionally go through the paper-based records of my life. Examining these gathered items seems to bring one much closer to the memory of the instant the event actually happened. Touch, examine, and feel the assortment of items. It's not only the story that I experience again and over again. Emotion has a complicated, iterative, updated, and alternating layer-by-layer impact.
+Through the process of dismantling the personal items gathered and retained, the installation work seeks to investigate where the traces are left. The effort is a modification of one's behaviorism that focuses on nihilism in order to undertake a self-analysis. What does fetishism value highly? What will be abandoned? What will be kept in mind? What is valuable?
+
 
 1027 presentation 
 Burning - Smoke - Breath - See It is worth thinking about what do u want burning to look like 
