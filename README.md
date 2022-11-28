@@ -19,8 +19,13 @@ Project Structure:
 Brief Description (Physically):
 The device works through a real-time collection of wind data from different cities I have lived in, captures the real-time data of wind through the wind speed sensor, send the data to the inner walls of 12 wind bell tubes with dust, triggers the rotor of the servo motor, and finally scatter the ashes in the wind.
 
+Brief Description (Physically):
+Installation work gathers real-time wind data from the various cities I've lived in, uses a wind speed sensor to record the wind, sends the data to the inner walls of 12 wind bell tubes filled with dust, activates the servo motor's rotor, and then scatters the ashes in the wind.
+
 Short Overview (Conceptually )：
 Exploring the traces left by people has always been the main theme of my artistic creation. I am attracted by the physical and spiritual traces of human existence, which are often very private, unique, and emotional.
+
+
 
 The starting point of the work is my collection addiction. I have been used to keeping traces of the physical aspects of life since I was very young. I will collect shopping tickets, bar coasters, cinema tickets, theater tickets, concert wristbands, restaurant tickets, exhibition tickets, train tickets, air tickets, tickets for activities, notes written by friends, intimate partner's personal belongings, etc. I keep, collect, sort out and sometimes look through the media of paper evidence in my life. The process of looking through these collected objects seems to be infinitely close to the memory point of the moment when the event occurred. Touch, look, and feel the collection of objects. It is not only the story that you repeatedly feel countless times. The impact of emotion is layer by layer, complex, iterative, updated, and alternating.
 
