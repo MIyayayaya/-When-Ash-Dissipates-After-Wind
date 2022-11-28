@@ -1,3 +1,5 @@
+Weblog - Iterative development documenting progress
+
 0623 presentation 
 Theme Philosophy meaning: Exploring the traces left by people has always been the main theme of my artistic creation. I am attracted by the physical and spiritual traces of human existence, which are often very private, unique, and emotional. The starting point of the work is my collection addiction. I have been used to keeping traces of the physical aspects of life since I was very young. I will collect shopping tickets, bar coasters, cinema tickets, theater tickets, concert wristbands, restaurant tickets, exhibition tickets, train tickets, air tickets, tickets for activities, notes written by friends, intimate partner's personal belongings, etc. I keep, collect, sort out and sometimes look through the media of paper evidence in my life. 
 
