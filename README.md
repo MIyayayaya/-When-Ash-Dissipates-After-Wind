@@ -29,7 +29,7 @@ The work is a change of personal behavior based on nihilism to conduct a self-an
 
 RESOURCES:
 
-Video: 
+Video: https://youtu.be/eyf6DKDr0Nk
 
 Weblog: https://github.com/MIyayayaya/-When-Ash-Dissipates-After-Wind/blob/main/WEBLOG/README.md
 
